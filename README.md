@@ -1,4 +1,4 @@
-# QgisSphericalStats3D: Spherical Statistics in QGIS
+# QSphericalStats: Spherical Statistics in QGIS
 
 <p align="center">
 <img src="https://github.com/mhaut/QgisSphericalStats3D/blob/main/images/logo.png?raw=true" width="600">
@@ -6,7 +6,7 @@
 
 ## Overview
 
-**QgisSphericalStats3D** is an open-source **QGIS plugin** that provides tools for performing **spherical statistics** on 3D directional data.  
+**QSphericalStats** is an open-source **QGIS plugin** that provides tools for performing **spherical statistics** on 3D directional data.  
 It extends QGIS with capabilities to analyze **orientations, angular distributions, concentration, vector modules**, and density plots directly from geospatial datasets.
 
 This plugin is based on the scientific library **PySphericalStats** and brings rigorous spherical statistical methods into a user-friendly GIS environment.
@@ -27,11 +27,11 @@ Typical applications include:
 *(When the plugin is published in the QGIS repository)*  
 1. Open **QGIS**
 2. Go to **Plugins → Manage and Install Plugins**
-3. Search for **QgisSphericalStats3D**
+3. Search for **QSphericalStats**
 4. Click **Install**
 
 ### ✔️ Install manually from source
 
 ```bash
-git clone https://github.com/mhaut/QgisSphericalStats3D
-cd QgisSphericalStats3D
+git clone https://github.com/mhaut/QSphericalStats
+cd QSphericalStats
